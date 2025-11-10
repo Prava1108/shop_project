@@ -1,0 +1,22 @@
+# Node / Frontend
+frontend/node_modules/
+frontend/dist/
+frontend/.vite/
+frontend/.env
+
+# Java / Backend
+backend/build/
+backend/.gradle/
+backend/*.jar
+backend/*.iml
+backend/out/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.idea/
+*.iml
+*.ipr
+*.iws
